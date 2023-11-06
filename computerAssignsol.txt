@@ -1,0 +1,34 @@
+﻿Computer Basics Assignment Solutions 
+1. What is a computer?
+
+
+Ans. Computer is an electronic device use to store information and process it. It helps people to perform different tasks like calculation,sending e-mails,etc.it is controlled by programmed instructions,which gives the machine a purpose and tell it what to do.
+
+
+2.What is RAM?
+Ans.RAM stand for Random Access Memory.It is also called Direct Access Memory.It is volatile memory means its data  lost when computer is powered off .The more RAM your computer has , the faster programs can function.They help to enable multitasking.
+
+
+3.Where is data stored in a computer?
+Ans.Data is primarily stored in a computer's internal storage devices, such as the RAM for temporary, active data, and hard disk drives (HDD) or solid-state drives (SSD) for long-term storage. External storage devices, like USB drives, and cloud storage services can also be used to store and access data.
+
+
+4.What is that input device used to type text and numbers on a document in the computer system?
+Ans. The input device used to type text and numbers on a document in a computer system is a keyboard.
+
+
+5. What are the output devices?
+Ans. Output devices are hardware components of a computer system that display or produce information for the user to see, hear, or interact with. Common examples of output devices include: monitor, headphones ,printers, speakers etc.
+
+
+6. Which is the input Device that allows a user to move the cursor or pointer on the screen?
+Ans. The input device that allows a user to move the cursor or pointer on the screen is a *mouse*. A mouse typically has a pointing device that is rolled or moved across a surface, and this motion is translated into cursor movement on the computer's display. Additionally, some devices, such as touchpads on laptops or graphic tablets, can also be used for cursor control.
+
+
+7. Which language is directly understood by the computer without a translation problem?
+Ans. Machine language, represented as binary code, is directly understood by a computer without translation.
+
+
+8. What are input devices?
+Ans. Input devices are hardware components that enable users to provide data and instructions to a computer or electronic system. Common examples include keyboards, mice, and touchscreens, allowing users to interact with the computer by entering text, commands, or other forms of data.Common examples of input devices include keyboards, mice, touchscreens, scanners, webcams, microphones etc.
+Cracking the Coding Interview in JAVA - Foundation
